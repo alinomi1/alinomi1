@@ -1,22 +1,64 @@
 <h1 align="center">Hi 👋, I'm Ali Nouman Asif</h1>
-<h3 align="center">A Game Developer By Choice! 11+ Years of experience.</h3>
+<h3 align="center">Backend & AI Integration Engineer | Mobile Engineer | Game Developer by choice | 11+ Years of experience</h3>
 
-- 🔭 I’m currently working on **Multiplayer Game**
+<p align="center">
+I build scalable backend systems, AI-powered workflows, API integrations, and production-ready mobile and interactive products.
+</p>
 
-- 🌱 I’m currently learning **Metaverse Game Ideas and Multiplayer**
-
-- 👯 I’m looking to collaborate on **Unity Projects, Multiplayer, Metaverse**
-
+- 🔭 I’m currently working on **backend platform engineering, AI integrations, and multiplayer systems**
+- 🌱 I’m currently learning **advanced AI workflow design, scalable backend architecture, and system design**
+- 👯 I’m looking to collaborate on **backend APIs, AI-powered products, mobile engineering, Unity projects, and multiplayer systems**
+- 🧠 My recent backend work includes **AI model integrations, OpenAI-powered workflows, audit/report generation, image generation pipelines, async job processing, and role-based admin systems**
+- 🔌 I work extensively with **third-party API integrations** including **AWS S3, OpenAI, Resend, WhatsApp Cloud API, Firebase, and payment/internal platform APIs**
+- 📱 I also have strong **mobile engineering experience** across **Unity, Android-focused products, Firebase integrations, gameplay systems, and app/backend connectivity**
 - 👨‍💻 All of my projects are available at [http://interactivegamestudio.com/](http://interactivegamestudio.com/)
+- 📫 How to reach me: **alinomi1@gmail.com**
 
-- 📫 How to reach me **alinomi1@gmail.com**
+<h3 align="left">What I focus on</h3>
+
+- Backend architecture and API design
+- AI model integrations and automation workflows
+- Role-based access control and admin platforms
+- Database design with Prisma, PostgreSQL, MySQL, and SQL Server
+- Cloud integrations, file pipelines, and scalable service orchestration
+- Frontend-to-backend API integrations for web and mobile apps
+- Mobile engineering and interactive product development
+- Multiplayer and game-related systems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alinoumanasif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alinoumanasif/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alinoumanasif/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">TypeScript</a> •
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a> •
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">Node.js</a> •
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">NestJS</a> •
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">Prisma</a> •
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">PostgreSQL</a> •
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">AWS S3</a> •
+<a href="https://platform.openai.com/" target="_blank" rel="noreferrer">OpenAI</a> •
+<a href="https://resend.com/" target="_blank" rel="noreferrer">Resend</a> •
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">Firebase</a> •
+<a href="https://unity.com/" target="_blank" rel="noreferrer">Unity</a> •
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">C# / .NET</a> •
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">C++</a> •
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">Git</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinomi1&show_icons=true&locale=en" alt="alinomi1" /></p>
+<h3 align="left">Highlights</h3>
+
+- Designed and delivered backend APIs with **NestJS, Prisma, and PostgreSQL**
+- Integrated **AI models** for content generation, image workflows, and business process automation
+- Built **Swagger/OpenAPI-documented** systems for admin, operations, and product teams
+- Worked on **RBAC, audit logs, service workflows, project pipelines, and internal tooling**
+- Delivered **frontend API integration support** for web and mobile products
+- Built products across **games, mobile apps, backend platforms, and cloud-connected systems**
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinomi1&show_icons=true&locale=en" alt="alinomi1" />
+</p>
