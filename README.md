@@ -31,6 +31,4 @@ I build scalable backend systems, AI-powered workflows, strong API integrations,
 TypeScript • JavaScript • Node.js • NestJS • Prisma • PostgreSQL • OpenAI • AWS S3 • Resend • Firebase • Unity • C# • C++ • Git
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinomi1&show_icons=true&locale=en" alt="alinomi1" />
-</p>
+
